@@ -5,5 +5,9 @@
   "name": "Lynax Optimizer",
   "entrypoints": {
     "main": ["net.lynax.LynaxOptimizer"]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "1.21.4"
   }
 }

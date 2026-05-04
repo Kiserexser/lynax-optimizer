@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "id": "lynax",
+  "version": "1.0.0",
+  "name": "Lynax Optimizer",
+  "entrypoints": {
+    "main": ["net.lynax.LynaxOptimizer"]
+  }
+}
